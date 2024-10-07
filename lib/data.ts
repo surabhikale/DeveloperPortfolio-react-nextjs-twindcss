@@ -63,24 +63,24 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Android App development Projects",
+    title: "https://react-vitejs-demo-project.vercel.app",
     description:
-      "●	Involved in understanding the requirements and putting them into model’s diagrams, process/flow charts.●	Worked on the Designing end to end integration of the Android mobile application deployed on Play store.●	Involved in identifying and assigning the task based on the skill-set available in the team.●	Involved in Development, implementation, testing and maintaining of various enhancement of the legacy product.●	Good hands-on experience in UI development for all the mobile platforms.",
-    tags: ["HTML3", "CSS3", "JavaScript", "Android SDK 2.3 - 10.3", "Eclipse",  "Phone gap"],
+      "Project Setup & Folder Structure -Building the Responsive Layout   -Styling with Tailwind CSS  Implementing Framer Motion Animations -Final Touches & Deployment ",
+    tags: [" React.js" ,"Vite js", "Framer Motion" ,"Tailwind.CSS"],
     imageUrl: dotsandcoms,
   },
   {
-    title: "Web and App development",
+    title:  "https://developer-portfolio-react-nextjs-twindcss.vercel.app",
     description:
-      "●	Involved in Development, implementation, testing and maintaining of various enhancement of the legacy product built on android ,Javascript.●	App v2,v3 product build and development experience(cross platform App build android and IOS) -2.8 years●	Communication with London DCMs and clients for Support requests.●	App Support request ●	Myinvestis product UI designing experience with JavaScript and Angular JS-10 months ●	Involved in  SCSS and gulp setup for drupal platform.I have created automation for css compilation on three different environments like production ,stage, local.all automation task done 3 environments according to different requirements.●	Strong experience with Cross Browser Compatibility issues and Optimization for web.",
-    tags: ["HTML5", "CSS3", "Typescript", "Bootstrap","Android", "Javascript", "Angular JS","gulp","webpack","grunt"],
+      "Next.js App Router Next.js Server Actions Client & Server Components TypeScript (Beginner & Intermediate) Tailwind CSS Context API Advanced Animations with Framer Motion Custom React hooks Fresh, modern UI design Responsive website",
+    tags: ["React.js","Next.js (App Router & Server Actions)", "TypeScript", "Tailwind CSS", "Framer Motion", "Vercel hosting"],
     imageUrl: idx,
   },
   {
-    title: "Front-end development project",
+    title: "https://zustand-example-swart.vercel.app/",
     description:
-      "● Involved in Development, implementation, testing and maintaining of various enhancement of the legacy product built on React , Vue js.●	Developing Rich UI SPA using HTML 5, CSS 3.0, SaaS, Bootstrap, Vue js, React JS●	Involved in working with Node modules to create a SPA.●	Hands on experience using grid for managing Data Tables.●	Worked on webpack /gulp /grunt /docker configuration for building and deploying UI applications.●	Involved in Bug fixing of various modules that were raised by the testing teams in the application during the Integration testing phase.●	Used the Agile scrum /Jira as a software development process.●	Worked with the team to deliver the assigned modules and push it to QA and production environment.●	Created TypeScript reusable components and services to consume REST API's using Component based architecture provided by React and Node js services. ●	Used GitHub, Git bash to commit changes to the repository for maintaining various versions.●	Used AWS /Azure for build Process to Generate Continuous Integration and Version Control is done by GIT.●	Making applications responsive and adaptive by adding Bootstrap.●	Strong experience with Cross Browser Compatibility issues and Optimization for web.",
-    tags: ["HTML5", "CSS3", "SaaS", "Typescript", "Bootstrap","React js","ES6", "Unit testing (Mocha)","Vue js", "Next.js", "SQL", "Tailwind", "Framer motion"],
+      "Learning Purpose used placeholder user api and learnt how to mange state with zustand Library.",
+    tags: ["React State management Library zustand", "Vercel hosting"],
     imageUrl: tcs,
   },
 ] as const;
