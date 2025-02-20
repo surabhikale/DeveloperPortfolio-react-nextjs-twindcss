@@ -57,7 +57,7 @@ export const experiencesData = [
     description:
       "Experienced in full-stack web development, specializing in React and Vue.js frameworks. Proficient in creating and maintaining SPAs with HTML5, CSS3, and Sass. Skilled in configuring build processes with Webpack, Gulp, Grunt, and Docker for efficient deployment. Proficient in Agile Scrum methodology, managing tasks with Jira.Developed reusable TypeScript components and services for REST API consumption. Experienced with version control using GitHub and Git Bash. Leveraged AWS and Azure for CI/CD pipelines. Strong emphasis on responsive design with Bootstrap and adept at resolving cross-browser compatibility issues.",
     icon: React.createElement(FaReact),
-    date: "Aug 2018– Current",
+    date: "Aug 2018– May 2024",
   },
 ] as const;
 
